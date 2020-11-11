@@ -1,0 +1,41 @@
+ .btn-primary {
+  display: inline-block !important;
+  border-radius: 20px !important;
+  background: black !important;
+  color: #f5cb5c !important;
+  padding: 12px 22px !important;
+  // font-weight: bold;
+  border: 1.5px solid white !important;
+  opacity: 0.8 !important;
+  // font-family: $banner;
+  font-family: 'Montserrat', sans-serif !important;
+
+ }
+
+ .btn-primary:hover {
+  background: white !important;
+  color: black !important;
+
+ }
+
+
+.btn-landing {
+  display: inline-block;
+  border-radius: 20px;
+  background: #93A8AC;
+  color: white;
+  padding: 10px 22px;
+  font-weight: bold;
+  border: 1.5px solid #424B54;
+  // opacity: 0.8;
+  // font-family: $banner;
+  font-family: 'Montserrat', sans-serif;
+
+ }
+
+ .btn-landing:hover {
+  background: #424B54;
+  color: white;
+
+  border: 1.5px solid #424B54;
+}

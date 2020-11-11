@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+}
+
+.landing {
+  /* The image used */
+  background-image: url("Trio-39.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  position: relative;
+  // opacity: 0.65;
+  // background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.landing h1 {
+  font-family: "Montserrat";
+  font-size: 70px;
+  font-weight: bold;
+  color: rgb(250, 250, 250);
+  text-shadow: 3px 3px 10px #1B2432;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+// .landing-img {
+//   width: 30%;
+
+// }

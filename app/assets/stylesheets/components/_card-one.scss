@@ -1,0 +1,59 @@
+// body, html {
+//   height: 100%;
+// }
+
+.card-one {
+  background-color: #424b54 !important;
+}
+
+.position {
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
+.card-one h3 {
+  font-family: "Montserrat";
+  color: white;
+  font-size: 28px;
+  text-align: right;
+  margin-right: -10px;
+
+}
+
+.card-one p {
+  font-family: "Montserrat";
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  margin-right: -10px;
+
+
+
+}
+.foto {
+    background-image: url("Trio-39.jpg");
+
+  /* Full height */
+  height: 800px !important;
+
+
+  /* Center and scale the image nicely */
+  position: relative;
+  // opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bio {
+  margin-top: 40px;
+  background-color: #93A8AC;
+}
+
+.bio p {
+  font-family: "Montserrat";
+  color: black;
+  font-size: 20px;
+  text-align: right;
+
+}

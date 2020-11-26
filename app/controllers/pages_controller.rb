@@ -13,4 +13,7 @@ class PagesController < ApplicationController
 
   def start
   end
+
+  def start_one
+  end
 end
